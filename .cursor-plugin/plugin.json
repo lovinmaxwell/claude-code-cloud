@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-cloud",
+  "displayName": "Claude Code & Cloud",
+  "version": "0.1.0",
+  "description": "Drive Claude Code locally (claude -p) and Claude Cloud sessions (claude --cloud) from Cursor / Grok Bot agents. Requires the Claude Code CLI and a Claude or Anthropic account.",
+  "author": {
+    "name": "Lovin Maxwell",
+    "email": "lovinmaxwell@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "anthropic", "cloud", "agent", "cli"],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/"
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Claude Code &amp; Cloud</title>
+  <desc id="desc">A dark rounded square with amber CC lettering.</desc>
+  <rect width="128" height="128" rx="26" fill="#171717"/>
+  <rect x="6" y="6" width="116" height="116" rx="21" fill="none" stroke="#D97706" stroke-width="4"/>
+  <text x="64" y="79" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-4" fill="#F59E0B">CC</text>
+</svg>
